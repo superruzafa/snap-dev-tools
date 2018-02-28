@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "jsdoc": "^3.5.5",
-    "morphic-jsdoc-template": "^0.1.2"
+    "morphic-jsdoc-template": "^0.1.3"
   }
 }
