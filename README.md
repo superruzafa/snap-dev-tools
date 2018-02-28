@@ -63,4 +63,6 @@ Run `make clean` to clean all the generated files by this tools.
 
 # Uninstallation
 
-Remove the `Makefile` and the `dev` folder from the Snap! working directory.
+Run `make uninstall` or remove manually the `Makefile` and the `dev` folder from the Snap! working directory.
+
+    $ make uninstall
