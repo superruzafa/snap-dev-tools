@@ -1,0 +1,14 @@
+{
+  "name": "snap-dev-tools",
+  "version": "0.1.0",
+  "description": "A set of tools to make easier the development of Snap!",
+  "author": "Alfonso Ruzafa <superruzafa@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superruzafa/snap-dev-tools.git"
+  },
+  "dependencies": {
+    "jsdoc": "^3.5.5",
+    "morphic-jsdoc-template": "^0.1.2"
+  }
+}

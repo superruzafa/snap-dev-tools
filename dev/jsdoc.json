@@ -1,0 +1,25 @@
+{
+    "source": {
+        "include": "morphic.js"
+    },
+    "tags": {
+        "allowUnknownTags": false,
+        "dictionaries": ["jsdoc","closure"]
+    },
+    "opts": {
+        "template": "node_modules/morphic-jsdoc-template",
+        "encoding": "utf8",
+        "destination": "docs/",
+        "recurse": true,
+        "verbose": true
+    },
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false
+    },
+    "docdash": {
+        "search": true,
+        "collapse": true
+    }
+}
+
