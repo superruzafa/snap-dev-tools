@@ -1,6 +1,22 @@
 {
     "source": {
-        "include": "morphic.js"
+        "include": [
+            "morphic.js",
+            "widgets.js",
+            "blocks.js",
+            "threads.js",
+            "objects.js",
+            "gui.js",
+            "paint.js",
+            "lists.js",
+            "byob.js",
+            "tables.js",
+            "symbols.js",
+            "xml.js",
+            "store.js",
+            "locale.js",
+            "cloud.js"
+        ]
     },
     "tags": {
         "allowUnknownTags": false,
